@@ -1,0 +1,8 @@
+dependencies:
+  - base == 4.*
+  - matrix
+  - process
+  - text
+executables:
+  teselate-nixos:
+    main: Main.hs
